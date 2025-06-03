@@ -32,6 +32,7 @@ public class Venta {
         sn= sm + comision;
         
         //salida
+        System.out.println("El nombre del Vendedor es: "+ vendedor);
         System.out.println("La comisión de la venta es: "+ comision);
         System.out.println("El sueldo neto es: "+ sn);
       
